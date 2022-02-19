@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/4005796/attributeerror-str-object-has-no-attribute-append
+https://mail.google.com/mail/u/1/?pli=1#sent/KtbxLxGPlkDhJBHFDVNpzpTMMvhPrhltFg
+https://pymorphy2.readthedocs.io/en/stable/glossary.html#term

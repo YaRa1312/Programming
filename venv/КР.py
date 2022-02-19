@@ -1,0 +1,6 @@
+f = open ("kkr.txt", "r")
+file_input = f.read()
+#f.write ("67890")
+#f.close()
+#f.read(1)
+#f.read()
